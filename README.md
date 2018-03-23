@@ -1,0 +1,2 @@
+# kill_script_windows
+简单易用的windows系统通用脚本
